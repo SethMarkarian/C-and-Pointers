@@ -1,0 +1,6 @@
+#include "unassignedEquals.h"
+
+int unassignedEqual(int* x, int* y)
+{
+    
+}
